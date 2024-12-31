@@ -1,6 +1,6 @@
 # Halvorsen Chaotic Attractor Simulation
 
-This repository contains a visualization of the **Halvorsen Chaotic Attractor** implemented in `p5.js`. Chaotic attractors are mathematical systems that 
+This repository contains a visualization of the **Halvorsen Chaotic Attractor** implemented in `p5.js`. Chaotic attractors are mathematical systems that evolve toward a set of states, but varies wildly depending on starting conditions
 
 ## Overview
 
@@ -19,3 +19,7 @@ Where `a` is a parameter that controls the system's behavior. This simulation de
 - **3D Visualization**: The attractor is rendered in a dynamic 3D space using `p5.js` with support for rotation, zooming. and pausing.
 - **Interactive Controls**: Adjust parameters like the attractor constant (`a`), and scale. Update canvas to apply updates.
 - **Draw Modes**: Switch between Rainbow, Ribbon, and Dashed line.
+
+## Issues
+
+- If I had to do this again I would make the control panel much easier to use, add options for more particle trails, and choose each particles starting values.
